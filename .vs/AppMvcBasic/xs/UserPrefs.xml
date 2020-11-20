@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{CE8699AE-E8F3-40B5-B540-523F65E4A862}|Default">
+  <MonoDevelop.Ide.ItemProperties.AppMvcBasic PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppMvcBasic/Views/Products/Index.cshtml">
+    <Files>
+      <File FileName="AppMvcBasic/Models/Entity.cs" Line="4" Column="11" />
+      <File FileName="AppMvcBasic/Models/Provider.cs" Line="23" Column="28" />
+      <File FileName="AppMvcBasic/Models/Address.cs" Line="23" Column="9" />
+      <File FileName="AppMvcBasic/Models/Product.cs" Line="11" Column="117" />
+      <File FileName="AppMvcBasic/Models/TypeProvider.cs" />
+      <File FileName="AppMvcBasic/Data/ApplicationDbContext.cs" Line="23" Column="1" />
+      <File FileName="AppMvcBasic/appsettings.json" />
+      <File FileName="AppMvcBasic/Startup.cs" Line="17" Column="2" />
+      <File FileName="AppMvcBasic/Controllers/ProvidersController.cs" Line="93" Column="35" />
+      <File FileName="AppMvcBasic/Views/Shared/_Layout.cshtml" Line="19" Column="92" />
+      <File FileName="AppMvcBasic/Views/Providers/_Endereco.cshtml" Line="38" Column="1" />
+      <File FileName="AppMvcBasic/Views/Providers/Create.cshtml" Line="26" Column="37" />
+      <File FileName="AppMvcBasic/Views/Providers/Edit.cshtml" Line="29" Column="108" />
+      <File FileName="AppMvcBasic/Controllers/Products.cs" Line="121" Column="84" />
+      <File FileName="AppMvcBasic/Views/Products/Create.cshtml" Line="16" Column="41" />
+      <File FileName="AppMvcBasic/Views/Products/Index.cshtml" Line="61" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppMvcBasic" expanded="True">
+            <Node name="AppMvcBasic" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Products" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Providers" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
